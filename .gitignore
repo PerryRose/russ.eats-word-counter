@@ -1,0 +1,6 @@
+src/assets/video/*
+src/assets/audio/*
+.env
+node_modules
+.DS_Store
+src/.DS_Store
