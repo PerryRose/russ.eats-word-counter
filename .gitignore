@@ -1,6 +1,7 @@
-src/assets/video/*
-src/assets/audio/*
+assets/video/*
+assets/audio/*
 .env
 node_modules
 .DS_Store
 src/.DS_Store
+dist
